@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on   ***projects in Web, Artificial Intelligence, and Mobile Development***.
 - 🌱 I’m currently learning ***Kotlin and React Native***.
 - 👯 I’m looking to collaborate on ***innovative Web and Mobile Applications that make a difference***.
-- 💬 Ask me about ***Technology and Software Development or Personel***
+- 💬 Ask me about ***Technology and Software Development***
 - 📫 How to reach me: ***furkanbyrm02@gmail.com***
 - 😄 Pronouns: ***He/Him***
 - ⚡ Fun fact:   ⚫⚪
